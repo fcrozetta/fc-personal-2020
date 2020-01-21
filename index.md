@@ -27,10 +27,6 @@ sections:
     section_id: recent-posts
     title: Recent Posts
     type: postsblock
-  - actions:
-      - label: test
-    component: content_block.html
-    type: contentblock
 menus:
   main:
     title: Home
