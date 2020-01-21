@@ -1,12 +1,11 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: test
-        url: 'http://google.com'
+  - actions: []
     component: hero_block.html
-    content: 'I am passionate about technology, and '
+    content: 'I am passionate about technology, and the '
     section_id: hero
+    title: asd
     type: heroblock
   - actions:
       - label: Contact Me
