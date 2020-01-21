@@ -3,9 +3,9 @@ title: Home
 sections:
   - actions: []
     component: hero_block.html
-    content: 'I am passionate about technology, and the '
+    content: 'Tech lead, developer, and passionate about technology'
     section_id: hero
-    title: asd
+    title: ''
     type: heroblock
   - actions:
       - label: Contact Me
