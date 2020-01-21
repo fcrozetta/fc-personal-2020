@@ -1,5 +1,1 @@
-main:
-  - identifier: testMenu
-    title: testing
-    url: google.com
-    weight: 0
+main: []
