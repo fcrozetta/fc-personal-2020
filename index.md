@@ -5,7 +5,7 @@ sections:
       - label: test
         url: 'http://google.com'
     component: hero_block.html
-    content: I am passionate about technology
+    content: 'I am passionate about technology, and '
     section_id: hero
     type: heroblock
   - actions:
