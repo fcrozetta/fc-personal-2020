@@ -22,13 +22,18 @@
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.linkedin.com/in/fernandocrozetta/"
     },
     {
       "type": "devto",
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/fcrozetta"
+    },
+    {
+      "title": "email",
+      "icon": "fa-envelope",
+      "url": "mailto:fernando@czetta.com"
     }
   ]
 }
