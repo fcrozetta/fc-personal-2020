@@ -30,9 +30,9 @@
       "url": "https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw"
     },
     {
-      "title": "envelope",
-      "icon": "far fa-envelope",
-      "url": "https://google.com"
+      "title": "email",
+      "icon": "fa-telegram-plane",
+      "url": "mailto:fernando@czetta.com"
     }
   ]
 }
