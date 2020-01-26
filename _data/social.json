@@ -28,11 +28,6 @@
       "title": "youtube",
       "icon": "fa-youtube",
       "url": "https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw"
-    },
-    {
-      "title": "email",
-      "icon": "fa-telegram-plane",
-      "url": "mailto:fernando@czetta.com"
     }
   ]
 }
