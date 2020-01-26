@@ -31,7 +31,7 @@
     },
     {
       "title": "envelope",
-      "icon": "fa-envelope",
+      "icon": "far fa-envelope",
       "url": "https://google.com"
     }
   ]
