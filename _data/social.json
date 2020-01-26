@@ -28,6 +28,11 @@
       "title": "youtube",
       "icon": "fa-youtube",
       "url": "https://www.youtube.com/channel/UCkiH-M_dTdmVjR6T_vf5pMw"
+    },
+    {
+      "title": "envelope",
+      "icon": "fa-envelope",
+      "url": "https://google.com"
     }
   ]
 }
