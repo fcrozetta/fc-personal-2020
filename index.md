@@ -18,6 +18,7 @@ sections:
       requires a different approach. Every company has its particularities and
       every team has its strengths.
 
+
       I create content for my blog, and youtube channel(both in portuguese).
     section_id: about
     title: About
