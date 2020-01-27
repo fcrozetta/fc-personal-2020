@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: About
-    weight: 4
+    weight: 1
 layout: page
 ---
 With knowledge in multiple languages, including *bash*, *c#*, *python*,          *javascript* (and others), i designed, prototype, developed, and deployed services for backends, frontends, mobile, also infra structure and cloud services.
