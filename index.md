@@ -18,8 +18,7 @@ sections:
       requires a different approach. Every company has its particularities and
       every team has its strengths.
 
-      I work hard to bring the best of me to the team, project, and customer.
-      Always.
+      I create content for my blog, and youtube channel(both in portuguese).
     section_id: about
     title: About
     type: contentblock
