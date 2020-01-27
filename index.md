@@ -34,7 +34,7 @@ sections:
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 0
 layout: home
 ---
 
