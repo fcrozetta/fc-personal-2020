@@ -3,7 +3,7 @@ title: Projects
 subtitle: The public Projects I worked on
 menus:
   main:
-    title: ''
+    title: Projects
     weight: 9999
 layout: page
 ---
