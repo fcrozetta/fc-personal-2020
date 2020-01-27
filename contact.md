@@ -7,4 +7,4 @@ menus:
 layout: contact
 ---
 
-To get in touch fill the form below.
+To get in touch fill the form below. (or use the social media icons in the side bar)
