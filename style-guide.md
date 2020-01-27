@@ -29,7 +29,7 @@ This project can be included in existing (or new) projects using a [nuget](https
 
 ---
 
-## Youtube Channel</h3>
+## Youtube Channel
 
 I'm creating content for my new channel on youtube.
 
