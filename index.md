@@ -12,10 +12,14 @@ sections:
         url: /contact
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Brazilian. Always working in multiple projects. It can be a enterprise,
+      personal, open source, and/or side project at the same time. In my
+      experience i have learned that a *perfect* language, and every project
+      requires a different approach. Every company has its particularities and
+      every team has its strengths.
+
+      I work hard to bring the best of me to the team, project, and customer.
+      Always
     section_id: about
     title: About
     type: contentblock
