@@ -4,7 +4,7 @@ subtitle: The public Projects I worked on
 menus:
   main:
     title: Projects
-    weight: 9999
+    weight: 4
 layout: page
 ---
 ## Shell Script Course
