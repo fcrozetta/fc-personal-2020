@@ -11,8 +11,8 @@ layout: page
 
 I'm gave a shell script crash course(in portuguese), and all my classes are available on github.
 
-You can find the entire course, separated by class on github﻿
-﻿
+You can find the entire course, separated by class on github﻿.
+
 ---
 
 ## TUI-netcore
