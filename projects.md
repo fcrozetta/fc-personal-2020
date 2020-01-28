@@ -1,18 +1,21 @@
 ---
 title: Projects
+subtitle: Some public projects I'm working on
 menus:
   main:
     title: Projects
     weight: 4
 layout: page
 ---
-Shell Script Course
+## Shell Script Course
 
 I'm gave a shell script crash course(in portuguese), and all my classes are available on github.
 
 You can find the entire course, separated by class on github﻿
 ﻿
-TUI-netcore
+---
+
+## TUI-netcore
 
 Project for .net core 2 which renders a simple text interface to interact with user. (should be V3.1 compatible, but not tested)
 
@@ -22,14 +25,16 @@ Since it can be used partially in existing software, it makes easy to prototype 
 
 This project can be included in existing (or new) projects using a nuget package.
 
-﻿project page</a></p>
+---
 ﻿
-Youtube Channel
+## Youtube
 
 I'm creating content for my new channel on youtube.
 
 This channel is used as a platform for me to record the how and why I do things, and also to test and fail. It's a platform to learn and grow.
 ﻿
-Blog
+---
+
+## Blog
 
 My Blog, in Portuguese, is dedicated to quick tutorials, ideas i have, and things that I want to share. Always commenting the data I bring, this platform is a good place to share my ideas, without recording the screen.
