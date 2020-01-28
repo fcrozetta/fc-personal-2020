@@ -1,6 +1,6 @@
 ---
-title: Projects
-subtitle: The public Projects I worked on
+title: empty
+subtitle: ''
 menus:
   main:
     title: ''
