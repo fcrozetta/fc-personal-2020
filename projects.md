@@ -32,7 +32,7 @@ This project can be included in existing (or new) projects using a nuget package
 I'm creating content for my new channel on youtube.
 
 This channel is used as a platform for me to record the how and why I do things, and also to test and fail. It's a platform to learn and grow.
-﻿
+
 ---
 
 ## Blog
