@@ -1,4 +1,5 @@
 main:
   - identifier: Blog(old)
     title: Blog(old)
-    url: blog.czetta.com
+    url: 'https://blog.czetta.com'
+    weight: 2
