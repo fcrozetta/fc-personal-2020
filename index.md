@@ -13,8 +13,8 @@ sections:
     component: content_block.html
     content: >-
       Brazilian. Always working in multiple projects. It can be a enterprise,
-      personal, open source, and/or side project at the same time. In my
-      experience i have learned that a *perfect* language, and every project
+      personal, open source, and/or side project at the same time. I have
+      learned that a *perfect* language does not exist, and every project
       requires a different approach. Every company has its particularities and
       every team has its strengths.
 
