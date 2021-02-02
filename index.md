@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions: []
     component: hero_block.html
-    content: 'Tech lead, developer, and passionate about technology'
+    content: 'Developer, passionate about technology'
     section_id: hero
     title: ''
     type: heroblock
